@@ -1,0 +1,23 @@
+[33m[2019-10-28 07:22:17][1] Processing:[39m App\Jobs\ProcessMobileDataEmail
+[32m[2019-10-28 07:22:17][1] Processed: [39m App\Jobs\ProcessMobileDataEmail
+[33m[2019-10-28 07:25:40][2] Processing:[39m App\Jobs\ProcessMobileDataEmail
+[32m[2019-10-28 07:25:40][2] Processed: [39m App\Jobs\ProcessMobileDataEmail
+[33m[2019-10-28 07:26:06][3] Processing:[39m App\Jobs\ProcessMobileDataEmail
+[32m[2019-10-28 07:26:06][3] Processed: [39m App\Jobs\ProcessMobileDataEmail
+[33m[2019-10-28 07:26:10][4] Processing:[39m App\Jobs\ProcessMobileDataEmail
+[32m[2019-10-28 07:26:10][4] Processed: [39m App\Jobs\ProcessMobileDataEmail
+[33m[2019-10-28 07:26:22][5] Processing:[39m App\Jobs\ProcessMobileDataEmail
+[32m[2019-10-28 07:26:22][5] Processed: [39m App\Jobs\ProcessMobileDataEmail
+[33m[2019-10-28 07:26:40][6] Processing:[39m App\Jobs\ProcessMobileDataEmail
+[32m[2019-10-28 07:26:40][6] Processed: [39m App\Jobs\ProcessMobileDataEmail
+[33m[2019-10-28 07:27:10][9] Processing:[39m App\Jobs\ProcessMobileDataEmail
+[32m[2019-10-28 07:27:10][9] Processed: [39m App\Jobs\ProcessMobileDataEmail
+[33m[2019-10-28 07:30:08][1] Processing:[39m App\Jobs\ProcessMobileDataEmail
+[32m[2019-10-28 07:30:08][1] Processed: [39m App\Jobs\ProcessMobileDataEmail
+[33m[2019-10-28 07:28:05][13] Processing:[39m App\Jobs\ProcessMobileDataEmail
+[32m[2019-10-28 07:28:32][13] Processed: [39m App\Jobs\ProcessMobileDataEmail
+
+[37;41m                                   [39;49m
+[37;41m  The "-d" option does not exist.  [39;49m
+[37;41m                                   [39;49m
+

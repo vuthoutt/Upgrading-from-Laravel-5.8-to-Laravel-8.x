@@ -1,0 +1,70 @@
+InfoBegin
+InfoKey: Creator
+InfoValue: wkhtmltopdf 0.12.5
+InfoBegin
+InfoKey: Producer
+InfoValue: Qt 4.8.7
+InfoBegin
+InfoKey: CreationDate
+InfoValue: D:20210506170620+07'00'
+NumberOfPages: 4
+BookmarkBegin
+BookmarkTitle: Miscellaneous Equipment
+BookmarkLevel: 1
+BookmarkPageNumber: 0
+BookmarkBegin
+BookmarkTitle: Regulatory Reform (Fire Safety) Order 2005 (RRO)
+BookmarkLevel: 1
+BookmarkPageNumber: 0
+BookmarkBegin
+BookmarkTitle: Fire Risk Assessment
+BookmarkLevel: 1
+BookmarkPageNumber: 0
+BookmarkBegin
+BookmarkTitle: Aims
+BookmarkLevel: 1
+BookmarkPageNumber: 0
+BookmarkBegin
+BookmarkTitle: Specification
+BookmarkLevel: 1
+BookmarkPageNumber: 0
+BookmarkBegin
+BookmarkTitle: Responsible Person(s)
+BookmarkLevel: 1
+BookmarkPageNumber: 0
+BookmarkBegin
+BookmarkTitle: Overall Fire Risk Level
+BookmarkLevel: 1
+BookmarkPageNumber: 0
+BookmarkBegin
+BookmarkTitle: Hazard Potential
+BookmarkLevel: 1
+BookmarkPageNumber: 0
+BookmarkBegin
+BookmarkTitle: Likelihood of Harm
+BookmarkLevel: 1
+BookmarkPageNumber: 0
+BookmarkBegin
+BookmarkTitle: Overall Fire Risk Descriptions
+BookmarkLevel: 1
+BookmarkPageNumber: 0
+PageMediaBegin
+PageMediaNumber: 1
+PageMediaRotation: 0
+PageMediaRect: 0 0 595 842
+PageMediaDimensions: 595 842
+PageMediaBegin
+PageMediaNumber: 2
+PageMediaRotation: 0
+PageMediaRect: 0 0 595 842
+PageMediaDimensions: 595 842
+PageMediaBegin
+PageMediaNumber: 3
+PageMediaRotation: 0
+PageMediaRect: 0 0 595 842
+PageMediaDimensions: 595 842
+PageMediaBegin
+PageMediaNumber: 4
+PageMediaRotation: 0
+PageMediaRect: 0 0 595 842
+PageMediaDimensions: 595 842

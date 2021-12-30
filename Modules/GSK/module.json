@@ -1,0 +1,14 @@
+{
+    "name": "GSK",
+    "alias": "gsk",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\GSK\\Providers\\GSKServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

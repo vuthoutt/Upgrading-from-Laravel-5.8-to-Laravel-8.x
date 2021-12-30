@@ -1,0 +1,14 @@
+.modal-toastr{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.4);
+    top:0px;
+    right: 0px;
+    text-align: -webkit-right;
+    pointer-events: unset !important;
+}
+#toast-container>div {
+    text-align: -webkit-left;
+    top:12px;
+    right: 12px;
+}
